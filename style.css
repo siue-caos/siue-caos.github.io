@@ -1,0 +1,23 @@
+body {
+    background-image: url("background.gif");
+    background-color: #333399;
+    color: #DDDD00;
+}
+
+a:visited {
+    color: #999900;
+}
+
+.body {
+    background-color: #000099;
+    box-shadow: 2px 2px 2px 2px #FFFF00;
+    margin: 0 auto;
+    padding: 10px;
+    display: table;
+}
+
+.counter {
+    display: table;
+    margin: 0 auto;
+}
+
